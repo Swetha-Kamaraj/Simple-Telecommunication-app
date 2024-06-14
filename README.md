@@ -1,1 +1,1 @@
-# Simple-Telecommunication-app
+# Simple-Telecommunication-app using Java Interface concept
